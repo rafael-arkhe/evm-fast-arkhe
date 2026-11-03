@@ -27,3 +27,7 @@ python3 -I arkhe_precheck.py ~/evm-fast --base "$(cat ~/evm-fast.base-commit)" \
 
 `PASS` needs the build log; without it the verdict is `PARTIAL` (static evidence only).
 Submission still requires the official `verified` result.
+
+## License
+
+Apache License 2.0. See [LICENSE](LICENSE).
